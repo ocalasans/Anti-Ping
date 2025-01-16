@@ -60,7 +60,7 @@ filterscripts Anti-Ping
 ```
 
 > [!WARNING]
-> Om andra filterscripts redan är laddade, lägg till Real-Time efter dem.
+> Om andra filterscripts redan är laddade, lägg till Anti-Ping efter dem.
 
 ## Konfiguration
 

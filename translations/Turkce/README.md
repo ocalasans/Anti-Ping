@@ -60,7 +60,7 @@ filterscripts Anti-Ping
 ```
 
 > [!WARNING]
-> Eğer başka filterscript'ler zaten yüklüyse, Real-Time'ı onlardan sonra ekleyin.
+> Eğer başka filterscript'ler zaten yüklüyse, Anti-Ping'ı onlardan sonra ekleyin.
 
 ## Yapılandırma
 

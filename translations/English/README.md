@@ -39,7 +39,7 @@ The Anti-Ping system is a specialized filterscript designed to monitor and manag
 
 ## Features
 
-- Real-time ping monitoring
+- Anti-Ping ping monitoring
 - Automatic removal of high-latency players
 - Detailed kick notifications
 - Customizable ping limits
@@ -60,7 +60,7 @@ filterscripts Anti-Ping
 ```
 
 > [!WARNING]
-> If other filterscripts are already loaded, add Real-Time after them.
+> If other filterscripts are already loaded, add Anti-Ping after them.
 
 ## Configuration
 
