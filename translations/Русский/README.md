@@ -184,8 +184,8 @@ stock Show_PingWarning(playerid) {
 
 Измените константы в начале файла:
 ```pawn
-#define MAX_PING                     (your_value)
-#define PING_CHECK_INTERVAL          (your_value)
+#define MAX_PING                     (ваше_значение)
+#define PING_CHECK_INTERVAL          (ваше_значение)
 ```
 
 ## Часто задаваемые вопросы

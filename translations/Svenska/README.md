@@ -184,8 +184,8 @@ stock Show_PingWarning(playerid) {
 
 Modifiera konstanterna i början av filen:
 ```pawn
-#define MAX_PING                     (your_value)
-#define PING_CHECK_INTERVAL          (your_value)
+#define MAX_PING                     (ditt_värde)
+#define PING_CHECK_INTERVAL          (ditt_värde)
 ```
 
 ## Vanliga frågor
